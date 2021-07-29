@@ -1,0 +1,15 @@
+pt/iade/homebay/models/repositories/CasaRepository.class
+pt/iade/homebay/models/repositories/AdministradorRepository.class
+pt/iade/homebay/controllers/LoginRequest.class
+pt/iade/homebay/models/Administrador.class
+pt/iade/homebay/models/Cliente.class
+pt/iade/homebay/models/repositories/VisitaRepository.class
+pt/iade/homebay/models/repositories/ClienteRepository.class
+pt/iade/homebay/HomebayApplication.class
+pt/iade/homebay/models/Visita.class
+pt/iade/homebay/models/VisitaCliente.class
+pt/iade/homebay/controllers/AdministradorController.class
+pt/iade/homebay/controllers/RequestWrapper.class
+pt/iade/homebay/controllers/CasaController.class
+pt/iade/homebay/models/Casa.class
+pt/iade/homebay/controllers/VisitaController.class
